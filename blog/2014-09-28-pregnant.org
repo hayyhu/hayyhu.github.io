@@ -1,0 +1,21 @@
+#+TITLE: pregnant
+#+DATE: 2014-09-28
+#+SETUPFILE: /home/deli/.emacs.d/elpa/org-octopress-20140106.1640/org-octopress.el
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: hayyhu
+#+JEKYLL_PUBLISHED: true
+
+#+BEGIN_VERSE
+drawing curtains
+hiding fetus
+behind venus
+all Night long
+let it flow
+into snow
+crystals in a row
+mothers will bow
+and swallow
+their unborn babies!
+#+END_VERSE
+
+{{{more}}}

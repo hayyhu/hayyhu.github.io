@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Hayhu | Hⓐyyhû]]></title>
-  <link href="http://hayyhu.github.io/blog/categories/hayhu/atom.xml" rel="self"/>
+  <title><![CDATA[Category: hayyhu | hⓐyyhû]]></title>
+  <link href="http://hayyhu.github.io/blog/categories/hayyhu/atom.xml" rel="self"/>
   <link href="http://hayyhu.github.io/"/>
-  <updated>2014-09-28T04:02:40+03:00</updated>
+  <updated>2014-09-28T04:38:51+03:00</updated>
   <id>http://hayyhu.github.io/</id>
   <author>
     <name><![CDATA[Hayali Ali &lt;alip☮exherbo.org&gt;]]></name>
@@ -14,7 +14,35 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Blind]]></title>
+    <title type="html"><![CDATA[pregnant]]></title>
+    <link href="http://hayyhu.github.io/blog/2014-09-28-pregnant.html"/>
+    <updated>2014-09-28T00:00:00+03:00</updated>
+    <id>http://hayyhu.github.io/blog/pregnant</id>
+    <content type="html"><![CDATA[<p class="verse">
+drawing curtains<br  />
+hiding fetus<br  />
+behind venus<br  />
+all Night long<br  />
+let it flow<br  />
+into snow<br  />
+crystals in a row<br  />
+mothers will bow<br  />
+and swallow<br  />
+their unborn babies!<br  />
+</p>
+
+
+
+
+<p>
+
+</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[blind]]></title>
     <link href="http://hayyhu.github.io/blog/2014-09-24-blind.html"/>
     <updated>2014-09-24T00:00:00+03:00</updated>
     <id>http://hayyhu.github.io/blog/blind</id>
