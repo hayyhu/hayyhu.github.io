@@ -1,13 +1,15 @@
 <hgroup>
-  <ul style="list-style-type: none; display: inline;">
-    <li>
-      <img src="/favicon.png" alt="{{ site.title }}" width="65" height="75" />
-    </li>
-    <li>
-    <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-    </li>
-  </ul>
+  <table border='0'>
+    <tr>
+      <td rowspan="2">
+        <img src="/favicon.png" alt="{{ site.title }}" width="75" height="95"/>
+      </td>
+      <td rowspan="2">
+        <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+      </td>
+    </tr>
+  </table>
   {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
+  <h2>{{ site.subtitle }}</h2>
   {% endif %}
 </hgroup>
