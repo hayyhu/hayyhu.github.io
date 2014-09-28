@@ -12,7 +12,7 @@ not a tiny inch more
 maybe too much in a sense  
 to plant what is growing inside  
 the light in this primitive darkness!  
-why do we fear of the hate  
+why are we afraid of the hate  
 her love shall never radiate?  
   
 said the tiny white scorpion  
