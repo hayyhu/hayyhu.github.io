@@ -1,0 +1,6 @@
+M-x org-octopress
+Compose YYYY-MM-DD-title.org in source/blog directory.
+C-c C-e (org-export-dispatch) and type “P” “x” “octopress”
+In command line terminal:
+
+rake preview
