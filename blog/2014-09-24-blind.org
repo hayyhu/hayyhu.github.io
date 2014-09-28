@@ -1,0 +1,30 @@
+#+TITLE: blind
+#+DATE: 2014-09-24
+#+SETUPFILE: /home/deli/.emacs.d/elpa/org-octopress-20140106.1640/org-octopress.el
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: hayhu
+#+JEKYLL_PUBLISHED: true
+
+#+BEGIN_VERSE
+I encouraged slavery
+against firefly's bravery
+her light's a cheap delivery
+Dark murders the scenery
+
+I bribed the sun
+to bring the dawn
+she's crowned, no longer a pawn
+yet torn apart, no longer one
+
+I fooled the moon
+not to wake up soon
+behind my Eyes, her doom
+a dream, at the brightest noon
+
+above the shoulders of flowers
+the questions planted answers
+just what dissuaded the brightness
+from filling my eyes with tears?
+#+END_VERSE
+
+{{{more}}}
