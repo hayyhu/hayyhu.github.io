@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[hⓐyyhû]]></title>
-  <link href="http://hayyhu.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: eng | hⓐyyhû]]></title>
+  <link href="http://hayyhu.github.io/blog/categories/eng/atom.xml" rel="self"/>
   <link href="http://hayyhu.github.io/"/>
   <updated>2014-09-29T17:07:56+03:00</updated>
   <id>http://hayyhu.github.io/</id>
@@ -12,39 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[semaver]]></title>
-    <link href="http://hayyhu.github.io/blog/2014-09-29-semaver.html"/>
-    <updated>2014-09-29T00:00:00+03:00</updated>
-    <id>http://hayyhu.github.io/blog/semaver</id>
-    <content type="html"><![CDATA[<p class="verse">
-ah, ulan dede<br  />
-yalnız temizlen diye<br  />
-bin dereden su getirdim ve<br  />
-bir tas suda boğdum seni.<br  />
-<br  />
-tavşan gibi koştum<br  />
-kanı, yıldız tozu güllerle.<br  />
-çay oldum, demlendim de<br  />
-içseydik dede gölgelerle!<br  />
-<br  />
-ah, ulan dede<br  />
-yalnız binbir tavşan kanı<br  />
-çay içseydik ya<br  />
-içseydik be şu gölgede.<br  />
-<br  />
-ah, ulan dede<br  />
-yalnız<br  />
-çay<br  />
-içseydik be.<br  />
-</p>
-
-<p>
-
-</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[pregnant]]></title>
@@ -64,9 +31,13 @@ and swallow<br  />
 their unborn babies!<br  />
 </p>
 
+
+
+
 <p>
 
 </p>
+
 ]]></content>
   </entry>
   
@@ -97,9 +68,13 @@ just what dissuaded the brightness<br  />
 from filling my eyes with tears?<br  />
 </p>
 
+
+
+
 <p>
 
 </p>
+
 ]]></content>
   </entry>
   
