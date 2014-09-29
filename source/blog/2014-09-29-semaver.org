@@ -28,6 +28,6 @@ yalnız
 içseydik be.
 #+END_VERSE
 
-↬ [[https://groups.google.com/forum/#!topic/kaotik/_Vud-WsNjSo][kaotik/_Vud-WsNjSo]]
+↬ [[https://groups.google.com/forum/#!topic/kaotik/_Vud-WsNjSo][kaotik/-Vud-WsNjSo]]
 
 {{{more}}}
