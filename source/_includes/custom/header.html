@@ -1,15 +1,28 @@
 <hgroup>
-  <table border='0'>
-    <tr>
-      <td rowspan="2">
-        <img src="/favicon.png" alt="{{ site.title }}" width="75" height="95"/>
-      </td>
-      <td rowspan="2">
-        <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-      </td>
-    </tr>
-  </table>
-  {% if site.subtitle %}
-  <h2>{{ site.subtitle }}</h2>
-  {% endif %}
+<table style="margin: .6em">
+  <tr>
+    <td style='padding-right: 1em'>
+       <img src="/favicon.png" alt="{{ site.eltit }}" width="75" height="95"/>
+    </td>
+    <td style='padding-right: .5em'><h1>{{ site.title }}</h1></td>
+    <td style='padding-left: .5em;'><h1>{{ site.eltit }}</h1></td>
+    <td style='padding-right: 1em'>
+       <img src="/nocivaf.png" alt="{{ site.title }}" width="75" height="95"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan='2' style='text-align: center'><h2>{{ site.subtitle }}</h2></td>
+    <td colspan='2' style='text-align: center'><h2>{{ site.eltitbus }}</h2></td>
+  </tr>
+  <tr>
+    <td colspan='4' style='text-align: center; padding-top: 1em;'>
+      <p style='font-style:italic ; font-family:monospace'>{{ site.description }}</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan='4' style='text-align: center; padding-top: .5em;'>
+      <p style='font-style:italic ; font-family:monospace'>{{ site.noitpircsed }}</p>
+    </td>
+  </tr>
+</table>
 </hgroup>

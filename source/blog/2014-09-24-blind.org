@@ -2,7 +2,7 @@
 #+DATE: 2014-09-24
 #+SETUPFILE: /home/deli/.emacs.d/elpa/org-octopress-20140106.1640/org-octopress.el
 #+JEKYLL_LAYOUT: post
-#+JEKYLL_CATEGORIES: hayyhu
+#+JEKYLL_CATEGORIES: hayyhu, eng
 #+JEKYLL_PUBLISHED: true
 
 #+BEGIN_VERSE
