@@ -317,8 +317,10 @@ nav {
   // ----- search form -----
 
   form {
-    float: right;
-    margin-top: -106px;
+    // alip: float: right;
+    // alip: margin-top: -106px;
+    float: center;
+    margin-top: -58px;
 
     input.search {
       @extend .font-size-smallest;
@@ -334,6 +336,7 @@ nav {
   // ----- navigation links -----
 
   ul {
+    margin-top: 24px;
     float: center;
     line-height: 32.36px;
     line-height: 1.618rem;

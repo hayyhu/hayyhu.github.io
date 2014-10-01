@@ -8,7 +8,7 @@ eltit: hûhⓐyy
 subtitle: Cha☮tic Associations
 eltitbus: Ka☮tik Çağrışımlar
 author: "Hayali Ali &lt;alip☮exherbo.org&gt;"
-#simple_search: https://www.google.com/search
+simple_search: https://www.google.com/search
 description: you must have chaos within you to give birth to a dancing star.
 noitpircsed: aşıkların kelimelere ihtiyacı yoktur.
 
@@ -17,10 +17,11 @@ noitpircsed: aşıkların kelimelere ihtiyacı yoktur.
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
 date_format: "%FT%T%Z"
+time_format: "%T%Z"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: kaotik+subscribe@googlegroups.com
 # RSS feeds can list your email address if you like
 email: alip@exherbo.org
 
