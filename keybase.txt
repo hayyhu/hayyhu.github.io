@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/alip
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hayyhu.github.io
+  * I am alip (https://keybase.io/alip) on keybase.
+  * I have a public key with fingerprint 998D A2FF 5D7D 798B 3945  A40E 414E 3239 1845 F220
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "998da2ff5d7d798b3945a40e414e32391845f220",
+            "host": "keybase.io",
+            "key_id": "414e32391845f220",
+            "kid": "01117a3209e744583614eb12f55235e15b4049471df206f28504eb0d151573847d720a",
+            "uid": "fe23609614e1128e86ba8f9e60874f19",
+            "username": "alip"
+        },
+        "service": {
+            "hostname": "hayyhu.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1431129430,
+    "expire_in": 157680000,
+    "prev": "f12989bf46b216be3d060db2d86ca49f01791606665627c75f33586e8238fcbb",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMM5AnicbZJ9UFRVGMZ3CSg+QhwdKg2mrmPkDGz33O+76U4WojhjkrEWomz37j2X
+vcF+sHuXjzacaAhBQCyKTBgznQyNEQewmmoWl0gdzQyIWVndFZAY0pFRVDDJtXvJ
+/uv8c+a8z+99zvucOX2PP6KJ1Wa+4I1dN3XwD+1Z32q3xrhhw2YPwtuFckTvQQrh
+/CZKtgLodDglm4zoEZZlBA4TRVKgBZpleJwlSI5AIQEIiGM4CxiCFDEMRdIQi92l
+dig2POeCOsmu1JSDSRKU6v/whfMCCgCgORxDWUgTBMnglELyABNJEsNJCEieQAmW
+oIEgYiglYgyJKjoqABKQNM4QylgYyil27nk7EWI4hbKqCQAYAxmK5xiRhRTK0IQI
+WBV0QaeNs0KF5ookB1KRhiiVEskM1fhqioeqhSsvt7h1BZJscfP/5nE47bLdbC9S
+VVl2uPRqt1zuUPFSyJseGpl4ySYo76h0lECnS7LbED1QSLMsqc6AwJXhWAJH0xBY
+5pCc0CSpBElTDKos9R5YoqZRKIblRYLiMUDxEBdQChV4TGAoM0ewIgpoFlAoRVEk
+hdFmmhRxnGQoyGA4I5p5HlGjFdvsiJ5SxuQKFEuXVGDjZLcTIhW9vq2RGm2sJjoq
+Qv0JmtiYxP/+x03XggeW4hiQeG3kalO4fo9mn2N4bOfC3Ge98ge9C3OrN3pWnjzc
+uGhXoN8ZjFt15qe/raMIbcxq6RC7zzXcM2ToPObW4ZJtwwd11sKkG4Elz/cu+b3h
+r5rl2spbF5emrOnonpbfanT7jlJZX1rq4o9vLgl+/eKR0evME+mfVqwzvZ9zd5I0
+3t6uTd7xy47t+dZE/ymX3lOY2tBpNSceyTZMZZ4e6X69a8GdM81YzniSf3b63p8d
+2s/6f7yx9FBye/y4f0sckAyfR/hS9b8l9Q9O75/7eehuyq+hmgxnkX48NLDplcm1
+0502b+g934qEKWZlXt2Vqn2lX3R4n1xV9/2dnr3N6Uc7eqqC92NGzoXrJvDs++90
+jvWlfPfDCdE7uOKrD08uNpSlJpQ1baw1Njz30pr6C7cuZzcfytTLI4PhT3a2XKOq
+BiZ9MynVF8ZOvaubzXsm0rB/mDYmW6P6Ai9/KzPBcL9Yk3qlcVsX0zJTn5N3FQyF
+1h/Y007Hn79+Kb/pxNlNB8LJwYno3QFNY960aevH6blvdtUW91hCp0edEaz/cOfM
+02nnG28LrbqEubbILe1vX+w9tiwrfzS4/oHX0somzGWttnw0e+xyZdvEKF573FOt
+/aZh2UBGW3FMsGk5Uv6qf+ip2qjSiks5N/tLTa91Bx6tExblLB6M2EuEKnelrS2m
+4qLfeCxu6B+MjbE/
+=HZPa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alip
+
+==================================================================
